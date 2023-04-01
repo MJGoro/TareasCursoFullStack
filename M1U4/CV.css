@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+li{
+    color: white;
+    font-size: 20px;
+}
+img.mediana{
+    height: 500px;
+    width: 700px;
+}
+.Boca{
+color: blue;
+}
