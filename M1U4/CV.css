@@ -1,24 +1,46 @@
-body{
+body {
     background-color: black;
 }
-h1{
+
+h1 {
     text-align: center;
 }
-h2{
+
+h2 {
     font-size: 30px;
+    background-color: green;
+    width: 200px;
+    box-sizing: border-box;
+    text-align: center;
 }
-p{
+
+p {
     color: white;
     font-size: 20px;
 }
-li{
+
+li {
     color: white;
     font-size: 20px;
 }
-img.mediana{
+
+img.mediana {
     height: 500px;
     width: 700px;
+
 }
-.Boca{
-color: blue;
+
+.Boca {
+    color: blue;
+}
+
+.Dragon {
+    color: goldenrod;
+}
+
+#box {
+    background-color: rgb(1, 146, 1);
+    width: 300px; height: 500;
+    padding: 30px;
+    box-sizing: border-box;
 }
